@@ -1425,10 +1425,15 @@
   prefecture_id: 16
   logo: "/img/dojos/tonami.png"
   url: https://coderdojo-tonami.org/
-  description: 砺波市で毎月開催
+  description: 砺波市で毎週土曜開催
   tags:
   - Scratch
-  - Webサイト
+  - micro:bit
+  - Raspberry pi 
+  - tello 
+  - Arduino
+  - Progate
+  - デザイン
 - id: 6
   order: '172014'
   created_at: '2016-11-24'
